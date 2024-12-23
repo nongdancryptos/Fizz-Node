@@ -68,7 +68,7 @@ chmod +x /root/fizzup.sh
 ![Screenshot 2024-10-10 101042](https://github.com/user-attachments/assets/526a6c15-ab3d-4633-97d8-774feca4d68a)
 
 
-### &#8212; Join discord: https://discord.gg/9v5YQR3b
+### &#8212; Join discord: https://discord.gg/GFwjw8yS
 <br>
 
 ### &#8212; Claim role Fizzer: https://guild.xyz/spheronfdn
